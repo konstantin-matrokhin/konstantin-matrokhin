@@ -6,4 +6,4 @@ Now I'm living in Spain and looking for interesting remote opportunities in fint
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Konstantin%20Matrokhin-blue?logo=linkedin)](https://es.linkedin.com/in/kmatrokhin)
 [![Website](https://img.shields.io/badge/Website-matrokhin.dev-orange)](http://www.matrokhin.dev)
-[![Email](https://img.shields.io/badge/Email-konstantin.matrokhin%40gmail.com-red?logo=gmail)](mailto:konstantin.matrokhin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-konstantin.matrokhin%40gmail.com-red)](mailto:konstantin.matrokhin@gmail.com)
